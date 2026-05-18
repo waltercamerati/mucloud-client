@@ -1,32 +1,38 @@
 ﻿{
-    "version":  "1.0.1",
-    "released_at":  "2026-05-18T21:58:00Z",
-    "changelog":  "MU Game Client Launcher: dropdown limpio con un solo \u0027MuCloud Server\u0027",
+    "version":  "1.1.0",
+    "released_at":  "2026-05-18T22:04:23Z",
+    "changelog":  "Launcher v1.1.0: salta el ClientLauncher intermedio (lanza main.exe directo) + self-update del launcher mismo",
     "min_launcher_version":  "1.0.0",
     "files":  [
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.0.1/Text_eng.bmd",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.1.0/Text_eng.bmd",
                       "path":  "Data/Local/Eng/Text_eng.bmd",
                       "sha256":  "ca395806241b927af34c4cc3bfa828c4755decbeef6f04a90d5f296bf61cfbda",
                       "size":  134926
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.0.1/Text_spn.bmd",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.1.0/Text_spn.bmd",
                       "path":  "Data/Local/Spn/Text_spn.bmd",
                       "sha256":  "9e5ed7b510f9e61e7e39ade8640602a7ead5ee146095cee4128bb82a1f3b121a",
                       "size":  134433
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.0.1/movereq_eng.bmd",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.1.0/movereq_eng.bmd",
                       "path":  "Data/Local/Eng/movereq_eng.bmd",
                       "sha256":  "fd64d5ea13478a1e55f75a4e13a4a20fe9c73b45aed259e794e73d93e2c2557a",
                       "size":  3616
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.0.1/launcher.config",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.1.0/launcher.config",
                       "path":  "launcher.config",
-                      "sha256":  "17aba46c395c897ac076574f8881415d0faaedbb691178e799598a826fee7cfe",
-                      "size":  1600
+                      "sha256":  "92e208551f673c4370da8bf5203cb78a02d356ff68bc6311cec0dbb0be3c13d8",
+                      "size":  1655
+                  },
+                  {
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.1.0/MuCloudLauncher.exe",
+                      "path":  "MuCloudLauncher.exe",
+                      "sha256":  "c41cf45e24fd2f7617f4805f396ecc91494b8283e95154d466c6d945e4280d7f",
+                      "size":  51596544
                   }
               ]
 }
