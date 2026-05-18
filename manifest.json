@@ -1,43 +1,43 @@
 ﻿{
-    "version":  "1.2.1",
-    "released_at":  "2026-05-18T23:47:05Z",
-    "changelog":  "Lorencia v2: grid 30 (37 campamentos, 27 normales 5 mobs / 10 hot 7 mobs), respawn 12s, fix orientacion minimap (swap X/Y), hot spots en rojo puro saturado",
+    "version":  "1.2.2",
+    "released_at":  "2026-05-18T23:52:15Z",
+    "changelog":  "Lorencia v3: grid 22 (47 spots: 32 normales / 15 hot), check estricto 7x7 walkable (sin spawns flotantes), fix colores OZT (swap R-B): rojo puro y amarillo brillante in-game",
     "min_launcher_version":  "1.0.0",
     "files":  [
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.1/Text_eng.bmd",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.2/Text_eng.bmd",
                       "path":  "Data/Local/Eng/Text_eng.bmd",
                       "sha256":  "ca395806241b927af34c4cc3bfa828c4755decbeef6f04a90d5f296bf61cfbda",
                       "size":  134926
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.1/Text_spn.bmd",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.2/Text_spn.bmd",
                       "path":  "Data/Local/Spn/Text_spn.bmd",
                       "sha256":  "9e5ed7b510f9e61e7e39ade8640602a7ead5ee146095cee4128bb82a1f3b121a",
                       "size":  134433
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.1/movereq_eng.bmd",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.2/movereq_eng.bmd",
                       "path":  "Data/Local/Eng/movereq_eng.bmd",
                       "sha256":  "fd64d5ea13478a1e55f75a4e13a4a20fe9c73b45aed259e794e73d93e2c2557a",
                       "size":  3616
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.1/launcher.config",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.2/launcher.config",
                       "path":  "launcher.config",
                       "sha256":  "92e208551f673c4370da8bf5203cb78a02d356ff68bc6311cec0dbb0be3c13d8",
                       "size":  1655
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.1/MuCloudLauncher.exe",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.2/MuCloudLauncher.exe",
                       "path":  "MuCloudLauncher.exe",
                       "sha256":  "c41cf45e24fd2f7617f4805f396ecc91494b8283e95154d466c6d945e4280d7f",
                       "size":  51596544
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.1/mini_map.OZT",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.2/mini_map.OZT",
                       "path":  "Data/World1/mini_map.OZT",
-                      "sha256":  "ce0aacdbfac2dc1da81fa69124719c8bb324cff9d9e8a9c7f62d1624caec841e",
+                      "sha256":  "3856c734bb867e00bf9fe02277beec3cae0436f993da5f726bdb915751f86e09",
                       "size":  4194352
                   }
               ]
