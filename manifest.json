@@ -1,0 +1,7 @@
+{
+  "version": "0.0.0",
+  "released_at": "2026-05-18T00:00:00Z",
+  "changelog": "Manifest inicial vacio. El primer release real se publica con publish-update.ps1",
+  "min_launcher_version": "1.0.0",
+  "files": []
+}
