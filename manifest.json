@@ -1,7 +1,26 @@
-{
-  "version": "0.0.0",
-  "released_at": "2026-05-18T00:00:00Z",
-  "changelog": "Manifest inicial vacio. El primer release real se publica con publish-update.ps1",
-  "min_launcher_version": "1.0.0",
-  "files": []
+﻿{
+    "version":  "1.0.0",
+    "released_at":  "2026-05-18T21:43:24Z",
+    "changelog":  "Primer release: fix tooltip Level/Resets (ID 3810) + warper UI limpio",
+    "min_launcher_version":  "1.0.0",
+    "files":  [
+                  {
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.0.0/Text_eng.bmd",
+                      "path":  "Data/Local/Eng/Text_eng.bmd",
+                      "sha256":  "ca395806241b927af34c4cc3bfa828c4755decbeef6f04a90d5f296bf61cfbda",
+                      "size":  134926
+                  },
+                  {
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.0.0/Text_spn.bmd",
+                      "path":  "Data/Local/Spn/Text_spn.bmd",
+                      "sha256":  "9e5ed7b510f9e61e7e39ade8640602a7ead5ee146095cee4128bb82a1f3b121a",
+                      "size":  134433
+                  },
+                  {
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.0.0/movereq_eng.bmd",
+                      "path":  "Data/Local/Eng/movereq_eng.bmd",
+                      "sha256":  "fd64d5ea13478a1e55f75a4e13a4a20fe9c73b45aed259e794e73d93e2c2557a",
+                      "size":  3616
+                  }
+              ]
 }
