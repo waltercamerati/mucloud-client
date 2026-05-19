@@ -1,43 +1,43 @@
 ﻿{
-    "version":  "1.3.3",
-    "released_at":  "2026-05-19T04:18:37Z",
-    "changelog":  "Lorencia: OZT con contra-rotacion -45 aplicada (cancela la rotacion +45 del cliente). Los 18 spawns del Excel deberian alinearse correctamente in-game",
+    "version":  "1.3.4",
+    "released_at":  "2026-05-19T04:26:07Z",
+    "changelog":  "Lorencia: rotacion +45 (sentido opuesto a v1.3.3). Si esta version alinea bien los markers con los spawns, ese es el sentido correcto.",
     "min_launcher_version":  "1.0.0",
     "files":  [
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.3/Text_eng.bmd",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.4/Text_eng.bmd",
                       "path":  "Data/Local/Eng/Text_eng.bmd",
                       "sha256":  "ca395806241b927af34c4cc3bfa828c4755decbeef6f04a90d5f296bf61cfbda",
                       "size":  134926
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.3/Text_spn.bmd",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.4/Text_spn.bmd",
                       "path":  "Data/Local/Spn/Text_spn.bmd",
                       "sha256":  "9e5ed7b510f9e61e7e39ade8640602a7ead5ee146095cee4128bb82a1f3b121a",
                       "size":  134433
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.3/movereq_eng.bmd",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.4/movereq_eng.bmd",
                       "path":  "Data/Local/Eng/movereq_eng.bmd",
                       "sha256":  "fd64d5ea13478a1e55f75a4e13a4a20fe9c73b45aed259e794e73d93e2c2557a",
                       "size":  3616
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.3/launcher.config",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.4/launcher.config",
                       "path":  "launcher.config",
                       "sha256":  "92e208551f673c4370da8bf5203cb78a02d356ff68bc6311cec0dbb0be3c13d8",
                       "size":  1655
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.3/MuCloudLauncher.exe",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.4/MuCloudLauncher.exe",
                       "path":  "MuCloudLauncher.exe",
                       "sha256":  "c41cf45e24fd2f7617f4805f396ecc91494b8283e95154d466c6d945e4280d7f",
                       "size":  51596544
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.3/mini_map.OZT",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.4/mini_map.OZT",
                       "path":  "Data/World1/mini_map.OZT",
-                      "sha256":  "5544f9f285bae34cc64367720600be58c4e9ae4dbb818368759a6c8f63b6eddb",
+                      "sha256":  "971623b0df52b1cbdad449c503dc3b3ad68e04f930573e2534321df31f436999",
                       "size":  4194352
                   }
               ]
