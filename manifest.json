@@ -1,43 +1,43 @@
 ﻿{
-    "version":  "1.3.6",
-    "released_at":  "2026-05-19T04:41:31Z",
-    "changelog":  "Lorencia: 5 markers de calibracion (C/N/S/E/W) en cruz desde el centro. Pintados sin rotacion. Sirve para deducir la transformacion exacta que aplica el cliente.",
+    "version":  "1.3.7",
+    "released_at":  "2026-05-19T04:47:39Z",
+    "changelog":  "Lorencia: contra-rotacion -135 grados (basado en captura: N aparece abajo-derecha, E arriba-derecha, S arriba-izq, W abajo-izq = rotacion isometrica +135 del cliente).",
     "min_launcher_version":  "1.0.0",
     "files":  [
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.6/Text_eng.bmd",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.7/Text_eng.bmd",
                       "path":  "Data/Local/Eng/Text_eng.bmd",
                       "sha256":  "ca395806241b927af34c4cc3bfa828c4755decbeef6f04a90d5f296bf61cfbda",
                       "size":  134926
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.6/Text_spn.bmd",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.7/Text_spn.bmd",
                       "path":  "Data/Local/Spn/Text_spn.bmd",
                       "sha256":  "9e5ed7b510f9e61e7e39ade8640602a7ead5ee146095cee4128bb82a1f3b121a",
                       "size":  134433
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.6/movereq_eng.bmd",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.7/movereq_eng.bmd",
                       "path":  "Data/Local/Eng/movereq_eng.bmd",
                       "sha256":  "fd64d5ea13478a1e55f75a4e13a4a20fe9c73b45aed259e794e73d93e2c2557a",
                       "size":  3616
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.6/launcher.config",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.7/launcher.config",
                       "path":  "launcher.config",
                       "sha256":  "92e208551f673c4370da8bf5203cb78a02d356ff68bc6311cec0dbb0be3c13d8",
                       "size":  1655
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.6/MuCloudLauncher.exe",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.7/MuCloudLauncher.exe",
                       "path":  "MuCloudLauncher.exe",
                       "sha256":  "c41cf45e24fd2f7617f4805f396ecc91494b8283e95154d466c6d945e4280d7f",
                       "size":  51596544
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.6/mini_map.OZT",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.3.7/mini_map.OZT",
                       "path":  "Data/World1/mini_map.OZT",
-                      "sha256":  "4828c670f425f669094b10e6aa3c19cad448276820eb9eab65ad3156ffc01968",
+                      "sha256":  "ecf5fcae04bdd9c1069cbe9aaa3ae47486a6864fcfd30caaa69f6267a4e5cb9c",
                       "size":  4194352
                   }
               ]
