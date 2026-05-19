@@ -1,43 +1,43 @@
 ﻿{
-    "version":  "1.2.3",
-    "released_at":  "2026-05-19T00:01:41Z",
-    "changelog":  "Lorencia v4: filtro de agua via TerrainHeight (height\u003e=60), grid 22 (45 spots: 30 normales / 15 hot). Minimap incluye 4 cruces azules debug (A/B/C/D) en posiciones fijas para validar mapping in-game",
+    "version":  "1.2.4",
+    "released_at":  "2026-05-19T00:09:27Z",
+    "changelog":  "Lorencia v5: grid 24, filtro super estricto 9x9 + height 90-135 (descarta agua Y elevaciones). Colores OZT SIN swap (correcto segun GlobalBitmap.cpp). Markers debug R/G/B/Y/M arriba-izq para validar colores in-game",
     "min_launcher_version":  "1.0.0",
     "files":  [
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.3/Text_eng.bmd",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.4/Text_eng.bmd",
                       "path":  "Data/Local/Eng/Text_eng.bmd",
                       "sha256":  "ca395806241b927af34c4cc3bfa828c4755decbeef6f04a90d5f296bf61cfbda",
                       "size":  134926
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.3/Text_spn.bmd",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.4/Text_spn.bmd",
                       "path":  "Data/Local/Spn/Text_spn.bmd",
                       "sha256":  "9e5ed7b510f9e61e7e39ade8640602a7ead5ee146095cee4128bb82a1f3b121a",
                       "size":  134433
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.3/movereq_eng.bmd",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.4/movereq_eng.bmd",
                       "path":  "Data/Local/Eng/movereq_eng.bmd",
                       "sha256":  "fd64d5ea13478a1e55f75a4e13a4a20fe9c73b45aed259e794e73d93e2c2557a",
                       "size":  3616
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.3/launcher.config",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.4/launcher.config",
                       "path":  "launcher.config",
                       "sha256":  "92e208551f673c4370da8bf5203cb78a02d356ff68bc6311cec0dbb0be3c13d8",
                       "size":  1655
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.3/MuCloudLauncher.exe",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.4/MuCloudLauncher.exe",
                       "path":  "MuCloudLauncher.exe",
                       "sha256":  "c41cf45e24fd2f7617f4805f396ecc91494b8283e95154d466c6d945e4280d7f",
                       "size":  51596544
                   },
                   {
-                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.3/mini_map.OZT",
+                      "url":  "https://github.com/waltercamerati/mucloud-client/releases/download/v1.2.4/mini_map.OZT",
                       "path":  "Data/World1/mini_map.OZT",
-                      "sha256":  "9b9fedd8b2813633d946910ea78e55860a47bb6b289030831b48ff6e44ff0aa3",
+                      "sha256":  "c6bb86dd6b2ef76b9b912b03b72f278664ef62ed55ac2c3d1d844a2efa5c22e2",
                       "size":  4194352
                   }
               ]
